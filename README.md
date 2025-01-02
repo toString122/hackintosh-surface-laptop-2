@@ -23,3 +23,4 @@
 - 🚫 **内置键盘的大写锁定（Caps Lock）/ Caps Lock on Built-in Keyboard**
 - 🚫 **Wi-Fi / Wi-Fi**
 - 🚫 **蓝牙 / Bluetooth**
+- 🚫 **Mini DP**
